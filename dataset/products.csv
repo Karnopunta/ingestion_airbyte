@@ -1,0 +1,5 @@
+product_id,brand_id,name,price
+1,1,iPhone 13,799.99
+2,1,MacBook Pro,1299.99
+3,2,Galaxy S21,699.99
+4,3,PlayStation 5,499.99
